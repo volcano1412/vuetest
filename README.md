@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-깃 test 2
+깃 master conflict
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
