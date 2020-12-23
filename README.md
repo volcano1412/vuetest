@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-
+git 테스트 2
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
